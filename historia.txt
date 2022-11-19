@@ -5,3 +5,9 @@ este es el años 2022
 y este es el mes 11 (noviembre)
 
 tipo promedio de edad promedio clase economica promedio
+
+quinta linea agregada
+
+sexta linea
+
+septima linea
